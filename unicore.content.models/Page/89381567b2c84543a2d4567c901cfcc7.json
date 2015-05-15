@@ -6,12 +6,12 @@
   "primary_category": "dc79d7ea87374233b940eb7bfcd97871", 
   "created_at": "2015-05-15T14:20:34.396558+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-15T14:20:34.396766+00:00", 
+  "modified_at": "2015-05-15T14:24:38.460897+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "month-7-burmese", 
   "uuid": "89381567b2c84543a2d4567c901cfcc7"
