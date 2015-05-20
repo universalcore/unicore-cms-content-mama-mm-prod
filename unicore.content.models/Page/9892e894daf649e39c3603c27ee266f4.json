@@ -4,14 +4,14 @@
   "language": "bur_MM", 
   "title": "\u1031\u1019\u103c\u1038\u103b\u1015\u102e\u1038 \u1043 \u101c\u101e\u102c\u1038\u1021\u101b\u103c\u101a\u1039", 
   "primary_category": "ee00e2ea82ce456eb051372a50b79ced", 
-  "created_at": "2015-05-15T11:08:04.813387+00:00", 
+  "created_at": "2015-05-15T11:08:04+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-05-15T14:27:00.856244+00:00", 
+  "modified_at": "2015-05-20T15:17:15.004343+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
