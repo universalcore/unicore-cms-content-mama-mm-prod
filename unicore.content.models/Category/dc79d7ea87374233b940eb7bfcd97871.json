@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "dc79d7ea87374233b940eb7bfcd97871", 
   "language": "bur_MM", 
-  "title": "Pregnancy", 
+  "title": "\u1000\u102d\u102f\u101a\u1039\u1040\u1014\u1039\u1031\u1006\u102c\u1004\u1039", 
   "image": null, 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "pregnancy", 
