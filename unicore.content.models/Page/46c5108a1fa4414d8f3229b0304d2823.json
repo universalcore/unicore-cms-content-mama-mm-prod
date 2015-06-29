@@ -1,17 +1,17 @@
 {
-  "subtitle": "\u101e\u1004\u1039\u1037\u101b\u1004\u1039\u1031\u101e\u103c\u1038\u1004\u101a\u1039\u1031\u101c\u1038\u101c\u1088\u1015\u1039\u101b\u103d\u102c\u1038\u1031\u1014\u1010\u102c\u1000\u102d\u102f\u101e\u1004\u1039\u1001\u1036\u1005\u102c\u1038\u101b\u1015\u102b\u101e\u101c\u102c\u1038\u104b", 
+  "subtitle": "\u101e\u1004\u1039\u1037\u101b\u1004\u1039\u1031\u101e\u103c\u1038\u1004\u101a\u1039\u1031\u101c\u1038\u101c\u1088\u1015\u1039\u101b\u103d\u102c\u1038\u1031\u1014\u1010\u102c\u1000\u102d\u102f\u101e\u1004\u1039\u1001\u1036\u1005\u102c\u1038\u101b\u1015\u102b\u101e\u101c\u102c\u1038 \u104b", 
   "description": "\u101e\u1004\u1039\u1037\u101b\u1004\u1039\u1031\u101e\u103c\u1038\u1004\u101a\u1039\u1031\u101c\u1038\u101c\u1088\u1015\u1039\u101b\u103d\u102c\u1038\u1031\u1014\u1010\u102c\u1000\u102d\u102f\u101e\u1004\u1039\u1001\u1036\u1005\u102c\u1038\u101b\u1015\u102b\u101e\u101c\u102c\u1038\u104b", 
   "language": "bur_MM", 
   "title": "\u1045 \u101c\u101e\u102c\u1038\u1021\u101b\u103c\u101a\u1039\u101e\u1031\u108f\u1076\u101e\u102c\u1038", 
   "primary_category": "dc79d7ea87374233b940eb7bfcd97871", 
   "created_at": "2015-05-15T14:18:11+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-06-04T12:56:45.002695+00:00", 
+  "modified_at": "2015-06-29T10:54:00.272151+00:00", 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
