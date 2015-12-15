@@ -3,15 +3,15 @@
   "logo_image_host": "http://thumbor.unicore.io", 
   "locale": "bur_MM", 
   "image": null, 
-  "logo_text": "\u1000\u107d\u103c\u1019\u1039\u1038\u1000\u103a\u1004\u1039\u101e\u1030\u1019\u103a\u102c\u1038\u108f\u103d\u1004\u1039\u1037 \u1019\u102d\u1018\u1019\u103a\u102c\u1038\u1011\u1036\u1019\u103d \u1021\u107e\u1000\u1036\u1025\u102c\u100f\u1039", 
+  "logo_text": "\u1000\u107d\u103c\u1019\u1039\u1038\u1000\u103a\u1004\u1039\u1015\u100a\u102c\u101b\u103d\u1004\u1039\u1019\u103a\u102c\u1038\u1011\u1036\u1019\u103d \u1021\u107e\u1000\u1036\u103b\u1015\u1033\u1001\u103a\u1000\u1039", 
   "logo_image": null, 
   "_version": {
     "package_version": "1.0.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "logo_description": "", 
+  "logo_description": "\u1000\u107d\u103c\u1019\u1039\u1038\u1000\u103a\u1004\u1039\u1015\u100a\u102c\u101b\u103d\u1004\u1039\u1019\u103a\u102c\u1038\u1011\u1036\u1019\u103d \u1021\u107e\u1000\u1036\u103b\u1015\u1033\u1001\u103a\u1000\u1039", 
   "image_host": "http://thumbor.unicore.io"
 }
