@@ -1,17 +1,17 @@
 {
   "subtitle": "Bur_Month_4", 
-  "description": "xxxxx", 
+  "description": "", 
   "language": "bur_MM", 
   "title": "\u1044 \u101c\u101e\u102c\u1038\u1021\u101b\u103c\u101a\u1039\u101e\u1031\u108f\u1076\u101e\u102c\u1038", 
   "primary_category": "dc79d7ea87374233b940eb7bfcd97871", 
   "created_at": "2015-11-20T08:59:41+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-03-08T15:00:32.017975+00:00", 
+  "modified_at": "2016-03-08T15:03:28.205221+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
