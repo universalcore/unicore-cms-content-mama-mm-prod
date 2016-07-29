@@ -3,15 +3,15 @@
   "description": "\u101e\u1004\u1037\u1039\u101b\u1004\u1039\u1031\u101e\u103c\u1038\u1031\u101c\u1038\u101f\u102c\u101e\u1004\u1039\u1031\u103b\u1015\u102c\u1010\u102c\u1000\u102d\u102f \u107e\u1000\u102c\u1038\u1014\u102d\u102f\u1004\u1039\u1031\u1014\u103b\u1015\u102e\u104b", 
   "language": "bur_MM", 
   "title": "\u1046 \u1039\u101c\u101e\u102c\u1038\u1021\u101b\u103c\u101a\u1039 \u101e\u1031\u108f\u1076\u101e\u102c\u1038", 
-  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "primary_category": "dc79d7ea87374233b940eb7bfcd97871", 
   "created_at": "2015-11-20T10:51:36+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-12-17T14:09:31.600750+00:00", 
+  "modified_at": "2016-07-29T16:22:12.475099+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 14, 
+  "position": 16, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Bur_Month_6", 
   "uuid": "408ce463f22c477a8d800eadb256303e"
